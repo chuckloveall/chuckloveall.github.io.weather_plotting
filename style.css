@@ -4,3 +4,10 @@ p{
 thead{
     color: white;
 }
+.comparison {
+    padding: 1em;
+}
+img {
+    width: auto;
+    height: auto;
+}
